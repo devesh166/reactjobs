@@ -28,6 +28,8 @@ class App extends Component {
      
       <AppHeader />
       <JobListing  jobs ={temp}/>
+      <AppFooter/>
+      <JobFilter/>
       {/* <JobFilter/>
       <JobListing/>
       <AppFooter /> */}
