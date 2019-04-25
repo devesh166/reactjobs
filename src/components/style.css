@@ -4,7 +4,8 @@
 .card{
    background-color: beige;
    margin: 50pt;
-   height: 100pt;
+ 
+   padding: 10px;
 
    
 }

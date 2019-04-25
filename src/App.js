@@ -27,9 +27,10 @@ class App extends Component {
       <div className="App">
      
       <AppHeader />
+      <JobFilter/>
       <JobListing  jobs ={temp}/>
       <AppFooter/>
-      <JobFilter/>
+   
       {/* <JobFilter/>
       <JobListing/>
       <AppFooter /> */}
