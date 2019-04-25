@@ -1,0 +1,14 @@
+.box{
+}
+
+.card{
+   background-color: beige;
+   margin: 20pt;
+   
+}
+
+.jobDetails{
+    display: inline-block;
+    padding: 20pt;
+    border-right: 2px solid gray;
+}

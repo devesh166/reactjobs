@@ -1,13 +1,43 @@
-import React from 'react';
+import React , { Component } from 'react';
 import logo from './logo.svg';
+
+import AppHeader from './components/appheader'
+import AppFooter from './components/appFooter'
+import JobFilter from './components/jobFilter'
+import JobListing from './components/JobListing'
+import JobData from './jobs'
 import './App.css';
+import jobListing from './components/JobListing';
+// function App() {
+//   return (
+//     <div className="App">
+    
+//     </div>
+//   );
+// }
 
-function App() {
-  return (
-    <div className="App">
+class App extends Component {
+  
 
-    </div>
-  );
+   
+  render() {
+    let temp = JobData;
+   
+    return (
+      <div className="App">
+     
+      <AppHeader />
+      <JobListing  jobs ={temp}/>
+      {/* <JobFilter/>
+      <JobListing/>
+      <AppFooter /> */}
+
+      </div>
+    )
+  }
+
+   
 }
+
 
 export default App;
