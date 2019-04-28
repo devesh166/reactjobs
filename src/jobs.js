@@ -3,7 +3,7 @@ var Data= [
         {
             
             "id":1,
-            "companyName":"Kellton",
+            "company":"Kellton",
             "designation": "Trainee",
             "location" : "Gurgaon",
             "salary":10000,
@@ -13,7 +13,7 @@ var Data= [
         },
         {
             "id":2,
-            "companyName":"Infotech",
+            "company":"Infotech",
             "designation": "Trainee",
             "location" : "Dehradun",
             "salary":15000,
@@ -24,7 +24,7 @@ var Data= [
             {
     
                 "id":3,
-            "companyName":"patni",
+            "company":"patni",
             "designation": "Javadeveloper",
             "location" : "Dehradun",
             "salary":20000,
@@ -36,7 +36,7 @@ var Data= [
             {
     
                 "id":4,
-            "companyName":"Satayam",
+            "company":"Satayam",
             "designation": "Javadeveloper",
             "location" : "Gujrat",
             "salary":20000,
@@ -51,7 +51,7 @@ var Data= [
     
     
                 "id":5,
-                "companyName":"infobeam",
+                "company":"infobeam",
                 "designation": "Trainee",
                 "location" : "Delhi",
                 "salary":20000,
@@ -63,7 +63,7 @@ var Data= [
     
     
                 "id":6,
-                "companyName":"wellspun",
+                "company":"wellspun",
                 "designation": "javadevelper",
                 "location" : "Dehradun",
                 "salary":15000,
@@ -74,7 +74,7 @@ var Data= [
             {
     
                 "id":7,
-                "companyName":"infobeam",
+                "company":"infobeam",
                 "designation": "Sales",
                 "location" : "Dehradun",
                 "salary":20000,
@@ -86,7 +86,7 @@ var Data= [
             {
     
                 "id":8,
-                "companyName":"Smarttech",
+                "company":"Smarttech",
                 "designation": "Trainee",
                 "location" : "Delhi",
                 "salary":50000,
@@ -94,7 +94,7 @@ var Data= [
             },
             {
                 "id":9,
-                "companyName":"techbeans",
+                "company":"techbeans",
                 "designation": "Marketting",
                 "location" : "Delhi",
                 "salary":10000,
@@ -104,7 +104,7 @@ var Data= [
             },
             {
                 "id":10,
-                "companyName":"techNoise",
+                "company":"techNoise",
                 "designation": "Trainee",
                 "location" : "Dehradun",
                 "salary":2000,
